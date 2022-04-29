@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Big Corp",
+    "numberofEmployees": 1000,
+    "ceo": "Mary Mellows",
+    "rating": 3.6
+  },
+  {
+    "name": "Small Startup",
+    "numberOfEmployees": 100,
+    "ceo": null,
+    "rating": 4.3
+  }
+]
